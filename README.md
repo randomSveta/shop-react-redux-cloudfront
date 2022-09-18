@@ -1,3 +1,6 @@
+**S3-website**: http://randomsveta-randomshop.s3-website.eu-west-2.amazonaws.com/
+**CloudFront URL**: https://d2v1egli69q4pb.cloudfront.net
+
 # React-shop-cloudfront
 
 This is frontend starter project for nodejs-aws mentoring program. It uses the following technologies:
