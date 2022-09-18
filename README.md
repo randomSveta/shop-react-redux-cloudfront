@@ -1,5 +1,5 @@
 **S3-website**: http://randomsveta-randomshop.s3-website.eu-west-2.amazonaws.com/
-**CloudFront URL**:https://d1panq4zzkz44h.cloudfront.net/
+**CloudFront URL**: https://dwjzqr7n1efy4.cloudfront.net
 
 # React-shop-cloudfront
 
